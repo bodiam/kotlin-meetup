@@ -1,0 +1,5 @@
+= Meetup
+
+This repo was created for the first Kotlin meetup in Sydney at 14 August 2017.
+
+It demonstrates a few features of using Kotlin with Spring Boot 2 / Spring 5.
